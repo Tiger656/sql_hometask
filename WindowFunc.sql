@@ -1,3 +1,4 @@
+/*v3*/
 SELECT 
   cls.name group_name
   , std.id student_id
